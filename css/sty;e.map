@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "sty;e.css",
+	"sources": [
+		"../../sass/sty;e.sass"
+	],
+	"sourcesContent": [
+		"h1 {\n  color: red; }\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,EAAE,CAAC;EACD,KAAK,EAAE,GAAG;CAAG"
+}
